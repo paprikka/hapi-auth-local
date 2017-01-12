@@ -1,14 +1,14 @@
 {
-  "name": "hapi-auth-basic",
-  "description": "Basic authentication plugin",
+  "name": "hapi-auth-local",
+  "description": "Local (email, password) authentication plugin",
   "version": "4.2.0",
-  "repository": "git://github.com/hapijs/hapi-auth-basic",
+  "repository": "https://github.com/paprikka/hapi-auth-basic.gitgit://github.com/hapijs/hapi-auth-basic",
   "main": "lib/index.js",
   "keywords": [
     "hapi",
     "plugin",
     "auth",
-    "basic"
+    "local"
   ],
   "engines": {
     "node": ">=4.0.0"
